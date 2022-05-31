@@ -6,19 +6,34 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="./css/main.css">
+  <link rel="stylesheet" href="./css/films.css">
 
   <title>Studio Ghibli - Films</title>
 </head>
 
 <body>
   <nav>
-    <a href="#" title="Studio Ghibli">
+    <a href="index.html" title="Studio Ghibli">
       <img class="logo-img" src="https://upload.wikimedia.org/wikipedia/sco/c/ca/Studio_Ghibli_logo.svg"
         alt="Studio Ghibli Logo">
     </a>
-    <a href="film.html">Films</a>
+    <a href="#">Films</a>
   </nav>
+
+  <div class="select-container">
+    <select id="director-select" name="director-select" title="Select a director">
+      <option value="disabled" selected>Select film by director...</option>
+    </select>
+  </div>
+
+  <section class="film-container">
+
+  </section>
 
   <script src="./javascript/main.js"></script>
 </body>
