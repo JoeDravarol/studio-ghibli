@@ -1,6 +1,6 @@
 # Studio Ghibli
 
-Add text here...
+A website creted to help people discover the world and films created by Studio Ghibli.
 
 ## Demo
 
@@ -44,3 +44,5 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE) file
 ## Acknowledgement
 
 - [James Anaipakos](https://github.com/janaipakos) - [API](https://ghibliapi.herokuapp.com/)
+- [Michela Bragiè](https://dribbble.com/michelabragie) - [Design Inspiration](https://dribbble.com/shots/2415056-DailyUI-Day003)
+- [Studio Ghibli Movies](https://studioghiblimovies.com) - [Images](https://studioghiblimovies.com/studio-ghibli-downloads/studio-ghibli-wallpapers-and-desktop-backgrounds/)
