@@ -1,6 +1,6 @@
 # Studio Ghibli
 
-A website creted to help people discover the world and films created by Studio Ghibli.
+A website created to help people discover the world and films created by Studio Ghibli.
 
 ## Demo
 
